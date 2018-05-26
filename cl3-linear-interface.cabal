@@ -65,6 +65,7 @@ library
   -- Other library packages from which modules are imported.
   build-depends:       
     base >=4.8 && <5,
+    cl3 >=1.0 && <2
     linear >=1.2 && <2
   
   -- Directories containing source files.
