@@ -1,0 +1,5 @@
+packages:
+- .
+resolver: lts-9.21
+extra-deps:
+- cl3-1.0.0.2
